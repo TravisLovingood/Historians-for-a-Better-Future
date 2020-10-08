@@ -15,7 +15,7 @@ function header() {
         <Col xs={8}>
           <Row>
             <Col xs={12}>
-              <Image src="pics/Title-Black.PNG" alt="Historians For a Better Future Logo" rounded fluid/>
+              <Image src="pics/Logo-Black.PNG" alt="Historians For a Better Future Logo" rounded fluid/>
               {/* <h1><strong>Historians For a Better Future</strong></h1> */}
             </Col>
           </Row>

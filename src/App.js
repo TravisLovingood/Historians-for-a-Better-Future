@@ -10,7 +10,7 @@ import Archives from './pages/Archives';
 import Contact from './pages/Contact';
 import Footer from "./component/footer";
 // Bootstrap stuff
-import Image from 'react-bootstrap/Image'
+// import Image from 'react-bootstrap/Image'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
@@ -60,8 +60,8 @@ const Home = () =>
         <Col md={8}>
         <Card className="p-3">
             <Card.Body>
-              <Image src="pics/Just-Fists-Pink.PNG" alt="Historians For a Better Future Logo" rounded fluid/> 
-                            <hr />
+              {/* <Image src="pics/Just-Fists-Pink.PNG" alt="Historians For a Better Future Logo" rounded fluid/> 
+                            <hr /> */}
               <Card.Title><h1><strong>Mission Statement</strong></h1></Card.Title>
 
               <Card.Text><p>Historians for a Better Future works to 
