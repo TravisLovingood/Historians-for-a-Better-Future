@@ -19,7 +19,7 @@ function header() {
               {/* <h1><strong>Historians For a Better Future</strong></h1> */}
             </Col>
           </Row>
-          <Nav />      
+          <Nav />     
         </Col>
         <Col></Col>
       </Row> 
