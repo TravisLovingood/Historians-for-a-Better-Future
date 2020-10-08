@@ -1,0 +1,29 @@
+body{
+  /* background-image: url(https://theknow.denverpost.com/wp-content/uploads/2020/04/GettyImages-1089392442.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment: fixed; */
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+li {
+display: inline;
+}
+p,h1,h2,h3,h4,h5,a {
+text-align: center;
+}
+
+p,h5,h2,h3,h1{
+color:  rgb(255, 255, 255);
+}
+
+.card {
+background-color:   rgba(85, 85, 85, 0.493);
+text-align: center;
+}
+
+footer {
+text-align: center;
+}
+
