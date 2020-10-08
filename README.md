@@ -1,68 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Historians for a Better Future
+![HBF Logo](/public/pics/Logo-Pink.PNG)
 
-In the project directory, you can run:
+[Click here to visit Site.](https://travislovingood.github.io/Historians-For-a-Better-Future/)
 
-### `npm start`
+## `Mission Statement`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Historians for a Better Future works to 
+address contemporary problems by drawing on historical knowledge and critically engaging with the present. HBF uses history as a resource to help communities address societal inequities. By facilitating dialogue about the past, we work toward a better, more just future.
+## `Committees`
+* Social Media Committee
+* Advocacy Committee
+* Website Committee
+* Book Club / Events Committee
+* Outreach Committee
+* Watchdog Committee
+* Past Projects Committee
+* International Focus Committee
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## `Blog`
+This page contains a list of blog post by committee members.<br />
+[Link to Blog Page.](https://travislovingood.github.io/Historians-For-a-Better-Future/#/blog)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## `Events`
+This page contains a list of upcoming events.<br />
+[Link to Events Page.](https://travislovingood.github.io/Historians-For-a-Better-Future/#/events)
 
-### `npm run build`
+## `Archives`
+This page contains a list of archived articles and posts.<br />
+[Link to Archives Page.](https://travislovingood.github.io/Historians-For-a-Better-Future/#/Archives)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## `Contact`
+This page lists all member contacts and related links.<br />
+[Link to Contact Page.](https://travislovingood.github.io/Historians-For-a-Better-Future/#/contact)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![HBF Logo](/public/pics/3Fists-White.PNG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## `Configuration`
+### This app was built using:
+* Html
+* Css
+* [React](https://github.com/facebook/create-react-app)
+* [Bootstrap](https://react-bootstrap.github.io/)
 
-### `npm run eject`
+## `Web Contributors`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* Travis Lovingood - tclovingood01@gmail.com
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## `To Learn More`
+### To learn more contact HBF at historiansforabetterfuture@gmail.com
