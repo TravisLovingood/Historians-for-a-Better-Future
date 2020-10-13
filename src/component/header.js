@@ -13,13 +13,14 @@ function header() {
       <Row>
         <Col></Col>
         <Col xs={8}>
+          <Nav />   
           <Row>
             <Col xs={12}>
               <Image src="pics/Logo-Black.PNG" alt="Historians For a Better Future Logo" rounded fluid/>
               {/* <h1><strong>Historians For a Better Future</strong></h1> */}
             </Col>
           </Row>
-          <Nav />     
+  
         </Col>
         <Col></Col>
       </Row> 
