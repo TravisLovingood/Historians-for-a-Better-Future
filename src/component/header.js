@@ -15,10 +15,12 @@ function header() {
         <Col xs={8}>
           <Nav />   
           <Row>
-            <Col xs={12}>
+            <Col></Col>
+            <Col xs={10}>
               <Image src="pics/Logo-Black.PNG" alt="Historians For a Better Future Logo" rounded fluid/>
               {/* <h1><strong>Historians For a Better Future</strong></h1> */}
             </Col>
+            <Col></Col>
           </Row>
   
         </Col>
