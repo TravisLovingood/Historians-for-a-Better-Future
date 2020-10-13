@@ -13,7 +13,7 @@ function header() {
       <Row>
         <Col></Col>
         <Col xs={8}>
-          <Nav />   
+  
           <Row>
             <Col xs={2}></Col>
             <Col xs={8}>
@@ -22,7 +22,7 @@ function header() {
             </Col>
             <Col xs={2}></Col>
           </Row>
-  
+            <Nav /> 
         </Col>
         <Col></Col>
       </Row> 
