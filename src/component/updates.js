@@ -15,7 +15,7 @@ function updates() {
           <Card>
             <Card.Img variant="top" src="pics/3Fists-Pink.PNG" />
             <Card.Body>
-              <Card.Title>Update Ex 1</Card.Title>
+              <Card.Title>Topic 1</Card.Title>
               <Card.Text>
                 This is a wider card with supporting text below as a natural lead-in to
                 additional news/updates content. This news/updates content is a little bit longer.
@@ -29,21 +29,21 @@ function updates() {
           <Card>
             <Card.Img variant="top" src="pics/3Fists-Black.PNG" />
             <Card.Body>
-              <Card.Title>Card title</Card.Title>
+              <Card.Title>Topic 2</Card.Title>
               <Card.Text>
                 This card has supporting text below as a natural lead-in to additional
                 news/updates content.{' '}
               </Card.Text>
             </Card.Body>
             <Card.Footer>
-              <small className="text-muted">Last updated 3 mins ago</small>
+              <small className="text-muted">Last updated 5 mins ago</small>
             </Card.Footer>
           </Card>
 
           <Card>
             <Card.Img variant="top" src="pics/3Fists-White.PNG" />
             <Card.Body>
-              <Card.Title>Card title</Card.Title>
+              <Card.Title>Topic 3</Card.Title>
               <Card.Text>
                 This is a wider card with supporting news/updates information below as a natural lead-in to
                 additional content. This card has even longer content than the first to
@@ -51,7 +51,7 @@ function updates() {
               </Card.Text>
             </Card.Body>
             <Card.Footer>
-              <small className="text-muted">Last updated 3 mins ago</small>
+              <small className="text-muted">Last updated 30 mins ago</small>
             </Card.Footer>
           </Card>
 
