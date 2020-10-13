@@ -101,7 +101,14 @@ function committees() {
                 </Card.Body>
                 <Card.Footer><a href="https://github.com/TravisLovingood"><h4>link</h4></a></Card.Footer>
               </Card>
-  
+              
+      {/* Committee Title card*/}
+              <Card className="p-3">             
+                <Card.Body>
+                <Card.Img variant="top" src="pics/Title-Pink.PNG" alt="Title Pic" rounded fluid />
+                </Card.Body>
+              </Card>
+
   {/* Outreach Committee */}
               <Card className="p-3">
                 <Card.Body>
