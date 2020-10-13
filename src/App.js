@@ -9,6 +9,7 @@ import Events from './pages/Events';
 import Archives from './pages/Archives';
 import Contact from './pages/Contact';
 import Footer from "./component/footer";
+import Updates from "./component/updates";
 // Bootstrap stuff
 // import Image from 'react-bootstrap/Image'
 import Container from 'react-bootstrap/Container'
@@ -78,6 +79,20 @@ const Home = () =>
         <Col></Col> 
       </Row>
 
+      <hr />
+      <Row>
+        <Col></Col>
+        <Col md={4}>
+          <Card>
+            <h1><strong>News/Updates</strong></h1>
+          </Card>    
+        </Col>
+        <Col></Col>
+      </Row>
+      <hr />
+
+      <hr />
+      <Updates></Updates>
       <hr />
 
       <Row>
