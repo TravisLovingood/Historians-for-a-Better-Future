@@ -35,20 +35,13 @@ function ProjectArchives() {
         <Col md={10}>
         <Card className="p-3">
             <Card.Body>
-              <Card.Title><h1><strong>Example Blog Topic 1</strong></h1></Card.Title>
-              <Card.Text><h5>Posted By: Username Example 1</h5></Card.Text>
+              <Card.Title><h1><strong>Drawing Democracy: North Carolina’s Gerrymandering History</strong></h1></Card.Title>
+              <Card.Text><h5>by Derek Huss and Katie Schinabeck</h5></Card.Text>
               <hr />
-              <Card.Text><p>Text Example - Lorem ipsum dolor sit amet, 
-                consectetur adipiscing elit,sed do eiusmod tempor incididunt 
-                ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
-                ea commodo consequat. Duis aute irure dolor in reprehenderit 
-                in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                Excepteur sint occaecat cupidatat non proident, sunt in 
-                culpa qui officia deserunt mollit anim id est laborum.</p>
+              <Card.Text><p>Brick by Brick: NC State University’s History Department Blog - July 29, 2019</p>
               </Card.Text>
             </Card.Body>
-            <Card.Footer><a href="https://github.com/TravisLovingood"><h4>Example link 1</h4></a></Card.Footer>
+            <Card.Footer><a href="https://history.news.chass.ncsu.edu/2019/07/29/drawing-democracy-north-carolinas-gerrymandering-history/"><h4>More Information</h4></a></Card.Footer>
           </Card>
         </Col>
         <Col></Col> 
@@ -59,20 +52,13 @@ function ProjectArchives() {
         <Col md={10}>
         <Card className="p-3">
             <Card.Body>
-              <Card.Title><h1><strong>Example Blog Topic 2</strong></h1></Card.Title>
-              <Card.Text><h5>Posted By: Username Example 2</h5></Card.Text>
+              <Card.Title><h1><strong>Graduate Students Present Work at National Council on Public History Conference</strong></h1></Card.Title>
+              <Card.Text><h5>by Katie Schinabeck, Sarah Soleim, Lisa Withers, & Hanna Howard</h5></Card.Text>
               <hr />
-              <Card.Text><p>Text Example - Lorem ipsum dolor sit amet, 
-                consectetur adipiscing elit,sed do eiusmod tempor incididunt 
-                ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
-                ea commodo consequat. Duis aute irure dolor in reprehenderit 
-                in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                Excepteur sint occaecat cupidatat non proident, sunt in 
-                culpa qui officia deserunt mollit anim id est laborum.</p>
+              <Card.Text><p>NC State University History News - June 25, 2018</p>
               </Card.Text>
             </Card.Body>
-            <Card.Footer><a href="https://github.com/TravisLovingood"><h4>Example link 2</h4></a></Card.Footer>
+            <Card.Footer><a href="https://history.news.chass.ncsu.edu/2018/06/25/graduate-students-present-work-at-national-council-on-public-history-conference/"><h4>More Information</h4></a></Card.Footer>
           </Card>
         </Col>
         <Col></Col> 
@@ -83,25 +69,34 @@ function ProjectArchives() {
         <Col md={10}>
         <Card className="p-3">
             <Card.Body>
-              <Card.Title><h1><strong>Example Blog Topic 3</strong></h1></Card.Title>
-              <Card.Text><h5>Posted By: Username Example 3</h5></Card.Text>
+              <Card.Title><h1><strong>Q: “Sir, would you like a history of this monument?” A: “F**k You!”</strong></h1></Card.Title>
+              <Card.Text><h5>by Historians for a Better Future</h5></Card.Text>
               <hr />
-              <Card.Text><p>Text Example - Lorem ipsum dolor sit amet, 
-                consectetur adipiscing elit,sed do eiusmod tempor incididunt 
-                ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
-                ea commodo consequat. Duis aute irure dolor in reprehenderit 
-                in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                Excepteur sint occaecat cupidatat non proident, sunt in 
-                culpa qui officia deserunt mollit anim id est laborum.</p>
+              <Card.Text><p>National Council of Public History - March 21, 2018</p>
               </Card.Text>
             </Card.Body>
-            <Card.Footer><a href="https://github.com/TravisLovingood"><h4>Example link 3</h4></a></Card.Footer>
+            <Card.Footer><a href="https://ncph.org/history-at-work/q-sir-would-you-like-a-history-of-this-monument/"><h4>More Information</h4></a></Card.Footer>
           </Card>
         </Col>
         <Col></Col> 
       </Row>
-
+      <hr />
+      <Row>
+        <Col></Col>
+        <Col md={10}>
+        <Card className="p-3">
+            <Card.Body>
+              <Card.Title><h1><strong>Historians for a Better Future Offers “Free History Lessons” at State Capitol</strong></h1></Card.Title>
+              <Card.Text><h5>by Historians for a Better Future</h5></Card.Text>
+              <hr />
+              <Card.Text><p>NC State University History News - September 8, 2017</p>
+              </Card.Text>
+            </Card.Body>
+            <Card.Footer><a href="https://history.news.chass.ncsu.edu/2017/09/08/grad-students-faculty-and-alum-give-free-history-lessons-at-confederate-monument/"><h4>More Information</h4></a></Card.Footer>
+          </Card>
+        </Col>
+        <Col></Col> 
+      </Row>
 {/* Back Home Link */}
       <hr />
       <Row>
