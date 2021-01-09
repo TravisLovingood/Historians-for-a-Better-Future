@@ -34,82 +34,15 @@ function Events() {
             <Card className="p-3">
               <Card.Body>
                 <Card.Title>
-                  <h3><strong>Event 1</strong></h3>
+                  <h3><strong>Connect with our Facebook page to learn more about upcoming events.</strong></h3>
                 </Card.Title>
-                <Row>
-                  <Col></Col>
-                  <Col md={3}><Card.Img src="pics/3Fists-Black.PNG"  alt="Event 1" rounded fluid /></Col>
-                  <Col md={7}>
-                    <Card.Text><p>Filler Text - Lorem ipsum dolor sit amet, consectetur 
-                      adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
-                      dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                      exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse 
-                      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-                      cupidatat non proident, sunt in culpa qui officia deserunt mollit 
-                      anim id est laborum.</p>
-                    </Card.Text>
-                  </Col>
-                  <Col></Col>
-                </Row>
               </Card.Body>
-              <Card.Footer><a href="https://github.com/TravisLovingood"><h4>Event Link</h4></a></Card.Footer>
+              <Card.Footer><a href="https://facebook.com/hist4future/"><h4>Go to Facebook</h4></a></Card.Footer>
             </Card>
           <hr />
-{/* Event 2 */}
-            <Card className="p-3">
-              <Card.Body>
-                <Card.Title>
-                  <h3><strong>Event 2</strong></h3>
-                </Card.Title>
-                <Row>
-                  <Col></Col>
-                  <Col md={7}>
-                    <Card.Text><p>Filler Text - Lorem ipsum dolor sit amet, consectetur 
-                      adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
-                      dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                      exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse 
-                      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-                      cupidatat non proident, sunt in culpa qui officia deserunt mollit 
-                      anim id est laborum.</p>
-                    </Card.Text>
-                  </Col>
-                  <Col md={3}><Card.Img src="pics/3Fists-White.PNG"  alt="Event 2" rounded fluid /></Col>                  
-                  <Col></Col>
-                </Row>
-              </Card.Body>
-              <Card.Footer><a href="https://github.com/TravisLovingood"><h4>Event Link</h4></a></Card.Footer>
-            </Card>
-          <hr /> 
-{/* Event 3 */}
-            <Card className="p-3">
-              <Card.Body>
-                <Card.Title>
-                  <h3><strong>Event 3</strong></h3>
-                </Card.Title>
-                <Row>
-                  <Col></Col>
-                  <Col md={3}><Card.Img src="pics/3Fists-Pink.PNG" alt="Event 3" rounded fluid /></Col>
-                  <Col md={7}>
-                    <Card.Text><p>Filler Text - Lorem ipsum dolor sit amet, consectetur 
-                      adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
-                      dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                      exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse 
-                      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-                      cupidatat non proident, sunt in culpa qui officia deserunt mollit 
-                      anim id est laborum.</p>
-                    </Card.Text>
-                  </Col>
-                  <Col></Col>
-                </Row>
-              </Card.Body>
-              <Card.Footer><a href="https://github.com/TravisLovingood"><h4>Event Link</h4></a></Card.Footer>
-            </Card>
         </Col>
         <Col></Col>
-      </Row>
+      </Row> 
 
     <hr />
       <Row>
