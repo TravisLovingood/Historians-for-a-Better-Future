@@ -17,7 +17,7 @@ import MissionStatement from "./component/missionStatement";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Card from 'react-bootstrap/Card';
+// import Card from 'react-bootstrap/Card';
 ;
 
 
@@ -50,9 +50,9 @@ const Home = () =>
       <Row>
         <Col></Col>
         <Col md={4}>
-          <Card>
+          {/* <Card> */}
             <h1><strong>News/Updates</strong></h1>
-          </Card>    
+          {/* </Card>     */}
         </Col>
         <Col></Col>
       </Row>

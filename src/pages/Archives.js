@@ -18,17 +18,17 @@ function Archives() {
       <Row>
         <Col></Col>
         <Col md={4}>
-          <Card>
+          {/* <Card> */}
             <h1><strong>Archives</strong></h1>
-          </Card>    
+          {/* </Card>     */}
         </Col>
         <Col></Col>
       </Row>
-      <hr />
+      {/* <hr /> */}
       <Row>
         <Col></Col>
         <Col md={8}>
-          <Card>
+          {/* <Card> */}
             <Row>
               <Col></Col>
               <Col md={10}>
@@ -41,7 +41,7 @@ function Archives() {
               </Col>
               <Col></Col>
             </Row>
-          </Card>    
+          {/* </Card>     */}
         </Col>
         <Col></Col>
       </Row>

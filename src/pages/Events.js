@@ -19,9 +19,9 @@ function Events() {
       <Row>
         <Col></Col>
         <Col md={4}>
-          <Card>
+          {/* <Card> */}
             <h1><strong>Events</strong></h1>
-          </Card>
+          {/* </Card> */}
         </Col>
         <Col></Col>
       </Row>

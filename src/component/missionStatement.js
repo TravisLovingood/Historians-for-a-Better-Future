@@ -10,7 +10,7 @@ function missionStatement() {
         <Row>
         <Col></Col>
         <Col md={8}>
-        <Card className="p-3">
+        {/* <Card className="p-3"> */}
             <Card.Body>
               {/* <Image src="pics/Just-Fists-Pink.PNG" alt="Historians For a Better Future Logo" rounded fluid/> 
                             <hr /> */}
@@ -25,7 +25,7 @@ function missionStatement() {
                 future.</p>
               </Card.Text>
             </Card.Body>
-          </Card>
+          {/* </Card> */}
         </Col>
         <Col></Col> 
       </Row>

@@ -18,17 +18,17 @@ function Contact() {
       <Row>
         <Col></Col>
         <Col md={4}>
-          <Card>
+          {/* <Card> */}
             <h1><strong>Contact</strong></h1>
-          </Card>    
+          {/* </Card>     */}
         </Col>
         <Col></Col>
       </Row>
-      <hr />
+      {/* <hr /> */}
       <Row>
         <Col></Col>
         <Col md={6}>
-          <Card className="p-3">
+          {/* <Card className="p-3"> */}
             <Row>
               {/* <Col></Col> */}
 
@@ -48,7 +48,7 @@ function Contact() {
               </Col>
               {/* <Col></Col> */}
             </Row>
-          </Card>    
+          {/* </Card>     */}
         </Col>
         <Col></Col>
       </Row>
